@@ -3,7 +3,7 @@
 --------------------------------------------------------------------
                  	CALL FOR PAPERS
   International Workshop on Health Recommender Systems,
-         	*Deadline  July 16th, 2018*
+         	*Deadline  July 30th, 2018*
             	to be held in Vancouver (Canada)
 co-located with ACM RECSYS 2018 (https://recsys.acm.org/)
        	Website: https://healthrecsys.github.io/2018
@@ -11,7 +11,7 @@ co-located with ACM RECSYS 2018 (https://recsys.acm.org/)
 Important Dates:
 ================
 
-**July 16th, 2018, Paper submission deadline
+** July 30th, 2018, Paper submission deadline
 ** August 13th, 2018, Author notification
 ** August 27th, 2018, Camera-ready version deadline
 ** October 6th, 2018, HRS Workshop
